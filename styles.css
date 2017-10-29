@@ -35,12 +35,12 @@ h1, h2, h3 {
   margin: 10px; }
 
 #imp{
-    color:#27ae60;
+    color:#BA3D43;
 }
 h1 {
   font-weight: 700;
   font-size: 36px;
-  color: #27ae60; }
+  color: #BA3D43; }
   @media (max-device-width: 860px), (max-width: 860px) {
     h1 {
       font-size: 28px; } }
@@ -95,7 +95,7 @@ section {
   font-family: 'Avenir Demi, 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 18px;
-  color: #2ecc71; }
+  color: #BA3D43; }
   @media (max-device-width: 860px), (max-width: 860px) {
     .section-accent {
       font-size: 14px; } }
@@ -182,7 +182,7 @@ section {
 .nav-scroll {
   color: #465362; }
   .nav-scroll:hover {
-    color: #2ecc71; }
+    color: #BA3D43; }
     @media (max-device-width: 860px), (max-width: 860px) {
       .nav-scroll:hover {
         background-color: #EAE5E1; } }
@@ -190,11 +190,11 @@ section {
 .nav-top {
   color: white; }
   .nav-top:hover {
-    color: #2ecc71; }
+    color: #BA3D43; }
 
 .selected {
-  color: #2ecc71;
-  border-bottom: 2px solid #2ecc71; }
+  color: #BA3D43;
+  border-bottom: 2px solid #BA3D43; }
   @media (max-device-width: 860px), (max-width: 860px) {
     .selected {
       border: none;
@@ -218,7 +218,7 @@ section {
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
-  color: #2ecc71;
+  color: #BA3D43;
 }
 
 #s-cover {
@@ -271,7 +271,7 @@ section {
   display: block; }
 
 #apply-btn {
-  background-color: #2ecc71; }
+  background-color: #BA3D43; }
   #apply-btn span {
     color: white; }
   #apply-btn:hover {
@@ -415,7 +415,7 @@ section {
   padding: 30px;
   margin: 0px 10px 25px 10px;
   font-size: 14px;
-  background-color: #27ae60;
+  background-color: #BA3D43;
   cursor: pointer;
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
@@ -473,7 +473,6 @@ section {
     columns: 100px 1;
     text-align: justify;
     @media (max-device-width: 860px), (max-width: 860px)
-
 }
 
 .schedule-activity{
@@ -748,13 +747,12 @@ background-image: url("img/farmers_logo.png");
   background-image: url("img/wolfram.png"); 
 }
 
-}
 .wolframalph {
   background-image: url("..img/wolfram.jpg"); 
 }
 
 #s-footer {
-  background-color: #27ae60;
+  background-color: #BA3D43;
   height: 60px; }
   #s-footer .section-text {
     margin-top: 15px; }
