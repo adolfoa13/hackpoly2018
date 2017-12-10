@@ -669,7 +669,31 @@ background-image: url("img/farmers_logo.png");
 }
 
 .northrop {
-  background-image: url("img/ng.png");
+  background-image: url("img/northropgrummanLogo.png");
+}
+.boeing {
+  background-image: url("img/boeingLogo.png");
+}
+.microsoft {
+  background-image: url("img/microsoftLogo.png");
+}
+.redbull {
+  background-image: url("img/redbullLogo.png");
+}
+.pepsico {
+  background-image: url("img/pepsicoLogo.png");
+}
+.tech {
+  background-image: url("img/techLogo.png");
+}
+.hackerfund {
+  background-image: url("img/hackerfunLogo.png");
+}
+.hackerearth {
+  background-image: url("img/hackerearthLogo  .png");
+}
+.digikey {
+  background-image: url("img/digikeyLogo.png");
 }
 
 .stickermule {
