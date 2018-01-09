@@ -646,7 +646,12 @@ section {
 }
 
 .digitalocean {
-  background-image: url("../img/digitalocean.png"); }
+  background-image: url("../img/digitalocean.png"); 
+}
+
+.kindbar {
+  background-image: url("../img/kind.png"); 
+}
 
 .monster_energy {
   background-image: url("img/monster_energy.jpg");
